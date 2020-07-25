@@ -1,5 +1,16 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+Web rental laptop dengan halaman customer dan admin.
+![katalog](https://user-images.githubusercontent.com/57498198/88464106-4859d900-cee2-11ea-9bed-ac1672afe766.jpg)
+
+![detsi](https://user-images.githubusercontent.com/57498198/88464107-50197d80-cee2-11ea-8877-9ebaca6c6b9c.jpg)
+
+![cart](https://user-images.githubusercontent.com/57498198/88464109-560f5e80-cee2-11ea-96f7-bbb0ce76a48b.jpg)
+
+![cart responsive](https://user-images.githubusercontent.com/57498198/88464111-60315d00-cee2-11ea-8221-6ec2819932c2.jpg)
+
+![admin](https://user-images.githubusercontent.com/57498198/88464114-658ea780-cee2-11ea-9eb0-d2dd9f0220af.jpg)
+
+
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
@@ -58,10 +69,3 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
 =======
-# rental-laptop
-Web rental laptop dengan halaman customer dan admin.
->>>>>>> 562789dcfb4832e52d07224c5b3264a93d25a580
-=======
-# rental-laptop
-Web rental laptop dengan halaman customer dan admin.
->>>>>>> 562789dcfb4832e52d07224c5b3264a93d25a580
