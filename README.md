@@ -1,12 +1,18 @@
 Web rental laptop dengan halaman customer dan admin.
+
+1. Halaman Katalog
 ![katalog](https://user-images.githubusercontent.com/57498198/88464106-4859d900-cee2-11ea-9bed-ac1672afe766.jpg)
 
+2. Halaman Detail
 ![detsi](https://user-images.githubusercontent.com/57498198/88464107-50197d80-cee2-11ea-8877-9ebaca6c6b9c.jpg)
 
+3. Halaman Keranjang
 ![cart](https://user-images.githubusercontent.com/57498198/88464109-560f5e80-cee2-11ea-96f7-bbb0ce76a48b.jpg)
 
+4. Halaman Keranjang responsive
 ![cart responsive](https://user-images.githubusercontent.com/57498198/88464111-60315d00-cee2-11ea-8221-6ec2819932c2.jpg)
 
+5. Halaman untuk admin
 ![admin](https://user-images.githubusercontent.com/57498198/88464114-658ea780-cee2-11ea-9eb0-d2dd9f0220af.jpg)
 
 
