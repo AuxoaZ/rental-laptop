@@ -10,6 +10,7 @@ Web rental laptop dengan halaman customer dan admin.
 ![cart](https://user-images.githubusercontent.com/57498198/88464109-560f5e80-cee2-11ea-96f7-bbb0ce76a48b.jpg)
 
 4. Halaman Keranjang responsive
+
 ![cart responsive](https://user-images.githubusercontent.com/57498198/88464111-60315d00-cee2-11ea-8221-6ec2819932c2.jpg)
 
 5. Halaman untuk admin
