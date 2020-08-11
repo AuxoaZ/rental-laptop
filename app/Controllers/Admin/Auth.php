@@ -57,7 +57,7 @@ class Auth extends Controller
                     ];
 
                     $this->session->set($data);
-                    if ($user['role_id'] == 3) {
+                    if ($user['role_id'] == 3 or 2) {
 
                         if ($id == 'bisnis') {
                             return redirect()->to(base_url('category/bisnis'));
@@ -152,7 +152,7 @@ class Auth extends Controller
                 'email' => $this->request->getpost('email'),
                 'kelamin' => $this->request->getpost('kelamin'),
                 'password' => $this->request->getpost('password1'),
-                'role_id' => 2,
+                'role_id' => 3,
                 'aktivasi' => 1
 
             ];
